@@ -188,6 +188,10 @@ http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zoom_Bollywood_Black.jpg/revision/latest?cb=20171207150932" group-title="MUSIC",Zoom
 http://tv.pmcon.net/hls/stream8.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg?format=webp&w=400&dpr=2.6" group-title="MUSIC",iLove
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://showbox.cam/wp-content/uploads/2020/01/ShowBox-1.png" group-title="MUSIC",ShowBox
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 
 

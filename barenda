@@ -25,7 +25,12 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZbqFXifTAUw/maxresdefault.jpg" group-title="NEWS",R. Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbB1DrFNGYbFpms2tgBLVb5Hf33xMtAtwzdA&usqp=CAU" group-title="NEWS",ABP News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.kalingatv.com/wp-content/uploads/2020/04/Kalinga-TV-Odisha-News-Logo.jpg" group-title="NEWS",KalingaTV
+https://m-c04-j2apps.s.llnwi.net/hls/7001.Kalinga.in_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Naxatra_News_Hindi_Logo.jpg" group-title="NEWS",Naxatra News
+https://m-c05-j2apps.s.llnwi.net/hls/7065.NaxatraNews.in_360p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet HD Hindi
@@ -36,7 +41,6 @@ http://tv.pmcon.net/hls/stream9.m3u8
 http://tv.aliflailabd.com:8989/discovery/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
 http://tv.pmcon.net/hls/stream32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
@@ -45,14 +49,12 @@ http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="MUSIC",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05tj9z40/Bangla-Talkies-Logo-cover.jpg" group-title="MUSIC",Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="MUSIC",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD

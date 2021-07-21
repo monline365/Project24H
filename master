@@ -111,6 +111,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZbqFXifTAUw/maxresdefault.jpg" group-title="NEWS",R. Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/0gdyEp5.jpg",Kalkata Tv
+https://d1chqz7l4sdk21.cloudfront.net/KOLKATA_TV.m3u8
 
 
 

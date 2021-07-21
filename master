@@ -79,6 +79,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 
 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",Movies Now
+http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="ENGLISH",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="ENGLISH",& Prive HD

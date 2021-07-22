@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://tv.pmcon.net/hls/stream31.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/12352
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10154
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
@@ -26,7 +26,7 @@ http://flixdhaka.com/Data/movies/indianbangla/new/Tumi%20Ashbe%20Bole%20(2021)/T
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-http://tv.pmcon.net/hls/stream14.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="HINDI",Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="HINDI",Rishtey Cineplex HD
@@ -42,7 +42,7 @@ https://aslive.club/cn/hindi/sonywah/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
-http://tv.pmcon.net/hls/stream19.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10161
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select HD
@@ -181,7 +181,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",Music Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg" group-title="MUSIC",9x Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="MUSIC",Music India
@@ -208,17 +208,17 @@ http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
 http://103.157.237.18:8000/play/611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
-http://tv.pmcon.net/hls/stream39.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="SPORTS",Sony Ten 3 HD
-http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10169
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepWJBRH1WVHksUog673jQwpwy-zJPLVJy-wbWKAxvKoO-n1tH4DVtMTwR4M0CRnG2l0Q&usqp=CAU" group-title="SPORTS",Star Sports Select 1 HD
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Hindi
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Bangla
 http://103.157.237.18:8000/play/601
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmBmDczV6fHuteRwiY2qsuxf0xtVEHyt_3gwMHo0Gi9oB5d4ZKOUf3JUXagZ6mtZnRQg&usqp=CAU" group-title="SPORTS",Star Sports 2 HD
-http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2 HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10165
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Star sports select 1 HD
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 2 HD

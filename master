@@ -8,7 +8,7 @@ http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10172
+http://180.210.191.2/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5e98/1565808564120/55fb00a28ead0e79178b5e98.jpg" group-title="BANGLA",Sony Aath
 http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla
@@ -26,9 +26,9 @@ http://flixdhaka.com/Data/movies/indianbangla/new/Tumi%20Ashbe%20Bole%20(2021)/T
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10134
+http://180.210.191.2/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="HINDI",Colors Cineplex HD
-http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="HINDI",Rishtey Cineplex HD
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
@@ -42,15 +42,15 @@ https://aslive.club/cn/hindi/sonywah/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10161
+http://180.210.191.2/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
-http://jupiter.bdcabletv.com/ZeeCinemaHD/video.m3u8
+http://180.210.191.2/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex
-http://tv.pmcon.net/hls/stream29.m3u8
+http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="HINDI",Rishtey Cineplex
 https://aslive.club/cn/hindi/risteycineplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
@@ -119,7 +119,7 @@ https://d1chqz7l4sdk21.cloudfront.net/KOLKATA_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="DOCUMENTARY",Travel XP 
-https://aslive.club/cn/documentary/travelxp/chunks.m3u8
+http://180.210.191.2/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DOCUMENTARY",Nat Geo Wild
 https://aslive.club/cn/documentary/natgeowild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet HD Hindi
@@ -206,20 +206,18 @@ http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
-http://103.157.237.18:8000/play/611
+http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="SPORTS",Sony Ten 3 HD
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10169
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepWJBRH1WVHksUog673jQwpwy-zJPLVJy-wbWKAxvKoO-n1tH4DVtMTwR4M0CRnG2l0Q&usqp=CAU" group-title="SPORTS",Star Sports Select 1 HD
-http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Hindi
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2 HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10165
+http://180.210.191.2/hls/stream16.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Star sports select 1 HD
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
+http://180.210.191.2/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 2 HD
 http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK

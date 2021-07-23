@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
-http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema

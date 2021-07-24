@@ -1,11 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://tv.pmcon.net/hls/stream31.m3u8
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10154
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
+http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
+http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
 http://tv.pmcon.net/hls/stream14.m3u8
@@ -39,6 +40,8 @@ http://tv.aliflailabd.com:8989/discovery/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
 http://tv.pmcon.net/hls/stream32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="KIDS",Nick Junior Hindi
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/12364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="KIDS",Disney XD
@@ -52,6 +55,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="MUSIC",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg" group-title="MUSIC",9x Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 
 
@@ -59,3 +64,5 @@ https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170

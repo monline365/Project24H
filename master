@@ -38,6 +38,7 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
+#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="HINDI",Colors Cineplex HD
 http://180.210.191.2/hls/stream29.m3u8

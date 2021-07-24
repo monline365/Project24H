@@ -11,7 +11,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://180.210.191.2/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla Cinema
 http://103.157.237.18:8000/play/214
-#EXTINF:-1 tvg-logo="" group-title="BANGLA",Bangla Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgT5mCiP-HO9vdVCHrltFv8l93ZIWhf_Trig&usqp=CAU" group-title="BANGLA",Bangla Hits
 http://103.157.237.18:8000/play/211
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5e98/1565808564120/55fb00a28ead0e79178b5e98.jpg" group-title="BANGLA",Sony Aath
 http://103.157.237.18:8000/play/210

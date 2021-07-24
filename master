@@ -46,8 +46,8 @@ http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="HINDI",Rishtey Cineplex HD
 #EXTVLCOPT:network-caching=1000
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
+#EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10156
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
 https://aslive.club/cn/hindi/sonysab/chunks.m3u8

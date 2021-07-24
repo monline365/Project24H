@@ -1,27 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
+#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
+#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
+#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
+#EXTVLCOPT:network-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
+#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla Cinema
+#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/214
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgT5mCiP-HO9vdVCHrltFv8l93ZIWhf_Trig&usqp=CAU" group-title="BANGLA",Bangla Hits
+#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/211
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5e98/1565808564120/55fb00a28ead0e79178b5e98.jpg" group-title="BANGLA",Sony Aath
+#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/210
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/s86FPbs.png",Aakash Aath
+#EXTVLCOPT:network-caching=1000
 https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla
+#EXTVLCOPT:network-caching=1000
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="BANGLA",Sun Bangla
+#EXTVLCOPT:network-caching=1000
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://4.bp.blogspot.com/-jOz2fwYYOdg/W3kK0V4LUMI/AAAAAAAAdsw/V-l2Ks9fcnIYK3qY16-YNTLVZiSNpeXoACLcBGAs/s1600/khushboo-tv-bangla.png",Khushboo Bangla
+#EXTVLCOPT:network-caching=1000
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 

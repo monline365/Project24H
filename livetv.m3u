@@ -29,71 +29,71 @@ http://103.157.237.18:8000/play/215
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
 http://103.157.237.18:8000/play/330
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures SD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures SD
 http://103.157.237.18:8000/play/329
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
 http://103.157.237.18:8000/play/338
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max SD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max SD
 http://103.157.237.18:8000/play/337
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max 2
+#EXTINF:-10 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max 2
 http://103.157.237.18:8000/play/339
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
+#EXTINF:-10 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
 http://103.157.237.18:8000/play/335
-#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f72a2f8f321d91184e784f/1565810964083/e6bb8752edfb7c3f72e8c13be7fbeddd.jpg" group-title="HINDI",Manoranjan Movies
+#EXTINF:-10 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f72a2f8f321d91184e784f/1565810964083/e6bb8752edfb7c3f72e8c13be7fbeddd.jpg" group-title="HINDI",Manoranjan Movies
 https://aslive.club/cn/hindi/monoronjon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI",SONY Wah
+#EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI",SONY Wah
 http://103.157.237.18:8000/play/340
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
+#EXTINF:-10 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
 http://103.157.237.18:8000/play/308
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
+#EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
 http://103.157.237.18:8000/play/309
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select HD
+#EXTINF:-10 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select HD
 http://103.157.237.18:8000/play/312
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select SD
+#EXTINF:-10 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select SD
 http://103.157.237.18:8000/play/311
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
 http://103.157.237.18:8000/play/321
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema SD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema SD
 http://103.157.237.18:8000/play/320
-#EXTINF:-1 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex HD
+#EXTINF:-10 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex HD
 http://103.157.237.18:8000/play/345
-#EXTINF:-1 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex
+#EXTINF:-10 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex
 http://103.157.237.18:8000/play/343
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
+#EXTINF:-10 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
 http://103.157.237.18:8000/play/323
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
+#EXTINF:-10 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
 http://103.157.237.18:8000/play/315
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Movies
+#EXTINF:-10 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Movies
 http://103.157.237.18:8000/play/316
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV HD
 http://103.157.237.18:8000/play/314
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors HD
 http://103.157.237.18:8000/play/342
-#EXTINF:-1 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="HINDI",Sony Pal
+#EXTINF:-10 tvg-logo="https://i.imgur.com/20NLt9o.jpg" group-title="HINDI",Sony Pal
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2822
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
 http://103.157.237.18:8000/play/302
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="HINDI",Zee TV HD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="HINDI",Zee TV HD
 http://103.157.237.18:8000/play/318
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png",Filmy Sahara
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png",Filmy Sahara
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG",Wow Cinema One
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG",Wow Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_360p/index.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://play-lh.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA",Maha Movie
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://play-lh.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_360p/index.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfptGA1PJOCsdf-1nrwMaY8kyT2XZaXi0F5A&usqp=CAU",Movie Plus
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfptGA1PJOCsdf-1nrwMaY8kyT2XZaXi0F5A&usqp=CAU",Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
+#EXTINF:-10 group-title="HINDI" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 
 
-#EXTINF: group-title="ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",Movies Now HD
+#EXTINF:-10 group-title="ENGLISH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png",Movies Now HD
 http://103.157.237.18:8000/play/725
 #EXTINF:-10 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="ENGLISH",& Flix HD
 http://103.157.237.18:8000/play/716

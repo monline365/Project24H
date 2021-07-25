@@ -139,21 +139,21 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+#EXTINF:-10 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 http://tv.pmcon.net/hls/stream20.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
+#EXTINF:-10 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
 http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
+#EXTINF:-10 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="KIDS",Disney XD
+#EXTINF:-10 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="KIDS",Disney XD
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick
+#EXTINF:-10 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick
 http://180.210.191.2/hls/stream23.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="KIDS",Nick Junior Hindi
+#EXTINF:-10 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="KIDS",Nick Junior Hindi
 http://103.153.39.34:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay Bangla
+#EXTINF:-10 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay Bangla
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzd4RRod5Hnx79IOVAZfpMvpGJcFy5HtJwNrO-lqozVB712EeWMLCwjbc5XGU2grqBC5E&usqp=CAU",Pogo
+#EXTINF:-10 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzd4RRod5Hnx79IOVAZfpMvpGJcFy5HtJwNrO-lqozVB712EeWMLCwjbc5XGU2grqBC5E&usqp=CAU",Pogo
 http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 
 

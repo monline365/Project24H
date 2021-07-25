@@ -8,7 +8,7 @@ http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-10 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-10 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10172
+http://180.210.191.2/hls/stream28.m3u8
 #EXTINF:-10 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla Cinema
 http://103.157.237.18:8000/play/214
 #EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgT5mCiP-HO9vdVCHrltFv8l93ZIWhf_Trig&usqp=CAU" group-title="BANGLA",Bangla Hits

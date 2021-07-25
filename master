@@ -95,7 +95,7 @@ https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/in
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://images.tv9bangla.com/wp-content/uploads/2020/11/Tv9Bangla-Logo-200x200-1.png" group-title="NEWS",TV9 Bangla
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZbqFXifTAUw/maxresdefault.jpg" group-title="NEWS",R. Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/R_bangla.png" group-title="NEWS",R. Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/0gdyEp5.jpg",Kolkata TV
 https://d1chqz7l4sdk21.cloudfront.net/KOLKATA_TV.m3u8

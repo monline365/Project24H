@@ -1,53 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
-#EXTVLCOPT:network-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla Cinema
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/214
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgT5mCiP-HO9vdVCHrltFv8l93ZIWhf_Trig&usqp=CAU" group-title="BANGLA",Bangla Hits
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/211
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5e98/1565808564120/55fb00a28ead0e79178b5e98.jpg" group-title="BANGLA",Sony Aath
-#EXTVLCOPT:network-caching=1000
 http://103.157.237.18:8000/play/210
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/s86FPbs.png",Aakash Aath
-#EXTVLCOPT:network-caching=1000
 https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla
-#EXTVLCOPT:network-caching=1000
 http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="BANGLA",Sun Bangla
-#EXTVLCOPT:network-caching=1000
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://4.bp.blogspot.com/-jOz2fwYYOdg/W3kK0V4LUMI/AAAAAAAAdsw/V-l2Ks9fcnIYK3qY16-YNTLVZiSNpeXoACLcBGAs/s1600/khushboo-tv-bangla.png",Khushboo Bangla
-#EXTVLCOPT:network-caching=1000
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="HINDI",Colors Cineplex HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="HINDI",Rishtey Cineplex HD
-#EXTVLCOPT:network-caching=1000
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
-#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
 https://aslive.club/cn/hindi/sonysab/chunks.m3u8
@@ -58,22 +42,16 @@ https://aslive.club/cn/hindi/sonywah/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
-#EXTVLCOPT:network-caching=1000
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select HD
-#EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="https://images.livemint.com/img/2019/02/25/600x338/Colours_1551091665014.jpg" group-title="HINDI",Colors Cineplex
-#EXTVLCOPT:network-caching=1000
 http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="HINDI",Rishtey Cineplex
-#EXTVLCOPT:network-caching=1000
 https://aslive.club/cn/hindi/risteycineplex/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
 https://aslive.club/cn/hindi/zeebolywood/chunks.m3u8
@@ -98,7 +76,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
-#EXTVLCOPT:network-caching=1000
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
 
 

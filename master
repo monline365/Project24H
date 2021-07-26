@@ -48,7 +48,7 @@ http://180.210.191.2/hls/stream25.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
 https://aslive.club/cn/hindi/zeebolywood/chunks.m3u8
 #EXTINF:-10 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
-http://tv.pmcon.net/hls/stream3.m3u8
+http://tv.pmcon.net/hls/stream7.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors HD
 http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
@@ -76,7 +76,7 @@ http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="ENGLISH",AXN
 http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="ENGLISH",Star Movies HD
-http://tv.pmcon.net/hls/stream7.m3u8
+http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/oWmEXpL.png" group-title="ENGLISH",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.
 #EXTINF:-2 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="ENGLISH",HBO Hits

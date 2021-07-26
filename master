@@ -32,7 +32,7 @@ http://180.210.191.2/hls/stream29.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="HINDI",Rishtey Cineplex HD
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:-2 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f72a2f8f321d91184e784f/1565810964083/e6bb8752edfb7c3f72e8c13be7fbeddd.jpg" group-title="HINDI",Manoranjan Movies
 https://aslive.club/cn/hindi/monoronjon/chunks.m3u8
 #EXTINF:-2 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies

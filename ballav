@@ -7,13 +7,23 @@ http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
 http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest" group-title="BANGLA",Colors Bangla Cinema
+http://103.157.237.18:8000/play/214
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10156
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
+http://180.210.191.2/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
-http://jupiter.bdcabletv.com/ZeeCinemaHD/video.m3u8
+http://180.210.191.2/hls/stream25.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
+http://103.157.237.18:8000/play/334
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
+http://tv.pmcon.net/hls/stream38.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="HINDI",Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="NEWS",ABP Ananda
@@ -26,6 +36,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZbqFXifTAUw/maxresdefault.jpg" group-title="NEWS",R. Bangla
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="NEWS",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
 
 

@@ -39,6 +39,8 @@ http://103.157.237.18:8000/play/329
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max
 http://103.157.237.18:8000/play/337
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://www.skychannellist.com/images/sony-max-2.png",Sony Max 2
+http://103.157.237.18:8000/play/339
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
 http://180.210.191.2/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold

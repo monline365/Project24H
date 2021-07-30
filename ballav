@@ -10,6 +10,7 @@ http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest" group-title="BANGLA",Colors Bangla Cinema
 http://103.157.237.18:8000/play/214
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
 http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
@@ -40,14 +41,12 @@ https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/chunklist_2.m3u8
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD Bangla
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD 
 http://tv.aliflailabd.com:8989/discovery/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
@@ -60,7 +59,6 @@ http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="MUSIC",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05tj9z40/Bangla-Talkies-Logo-cover.jpg" group-title="MUSIC",Bangla Talkies
@@ -69,7 +67,6 @@ https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg" group-title="MUSIC",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD

@@ -67,6 +67,8 @@ http://103.157.237.18:8000/play/342
 http://103.157.237.18:8000/play/323
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
 http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
+http://103.157.237.18:8000/play/334
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus

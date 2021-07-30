@@ -68,7 +68,13 @@ http://103.157.237.18:8000/play/342
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
 http://103.157.237.18:8000/play/323
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
-http://tv.pmcon.net/hls/stream7.m3u8
+http://103.157.237.18:8000/play/315
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Movies
+http://103.157.237.18:8000/play/316
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.imgur.com/9Iv6ZFR.png",MBC HD
+http://103.157.237.18:8000/play/347
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV HD
+http://103.157.237.18:8000/play/314
 #EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
 http://103.157.237.18:8000/play/334
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD

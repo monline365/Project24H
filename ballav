@@ -19,10 +19,10 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://180.210.191.2/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
 http://180.210.191.2/hls/stream25.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
-http://103.157.237.18:8000/play/334
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus
-http://103.157.237.18:8000/play/301
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony
+http://103.157.237.18:8000/play/333
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
+http://103.157.237.18:8000/play/302
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="HINDI",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 

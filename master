@@ -4,11 +4,11 @@ http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
 http://103.157.237.18:8000/play/201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
-http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+http://103.157.237.18:8000/play/206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla
 http://103.157.237.18:8000/play/205
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
-http://180.210.191.2/hls/stream28.m3u8
+http://103.157.237.18:8000/play/213
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies
@@ -32,7 +32,7 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-http://180.210.191.2/hls/stream14.m3u8
+http://103.157.237.18:8000/play/330
 #EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
 http://103.157.237.18:8000/play/329
 #EXTINF:-0 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
@@ -52,7 +52,7 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6228
 #EXTINF:-0 tvg-logo="https://www.adgully.com/img/800/201703/star-gold-select-hd-logo.jpg" group-title="HINDI",Star Gold Select
 http://103.157.237.18:8000/play/311
 #EXTINF:-0 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
-http://180.210.191.2/hls/stream25.m3u8
+http://103.157.237.18:8000/play/321
 #EXTINF:-0 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema
 http://103.157.237.18:8000/play/320
 #EXTINF:-0 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="HINDI",Colors Cineplex HD
@@ -75,8 +75,8 @@ http://103.157.237.18:8000/play/316
 http://103.157.237.18:8000/play/347
 #EXTINF:-0 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV HD
 http://103.157.237.18:8000/play/314
-#EXTINF:-0 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
-http://103.157.237.18:8000/play/334
+#EXTINF:-0 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony
+http://103.157.237.18:8000/play/333
 #EXTINF:-0 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus
@@ -234,13 +234,13 @@ https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS",Ten Cricket
-http://tv.pmcon.net/hls/stream34.m3u8
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six
 http://103.157.237.18:8000/play/617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
+http://103.157.237.18:8000/play/611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1
 http://103.157.237.18:8000/play/611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
@@ -248,7 +248,7 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2
 http://103.157.237.18:8000/play/613
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="SPORTS",Sony Ten 3 HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10169
+http://103.157.237.18:8000/play/616
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="SPORTS",Sony Ten 3
 http://103.157.237.18:8000/play/615
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Hindi
@@ -257,6 +257,8 @@ http://tv.pmcon.net/hls/stream15.m3u8
 http://103.157.237.18:8000/play/601
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/269-2696415_watch-your-favorite-shows-from-following-tv-channels.png" group-title="SPORTS",Star Sports 2 HD
 http://180.210.191.2/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmBmDczV6fHuteRwiY2qsuxf0xtVEHyt_3gwMHo0Gi9oB5d4ZKOUf3JUXagZ6mtZnRQg&usqp=CAU" group-title="SPORTS",Star Sports 3 HD
+http://103.157.237.18:8000/play/605
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmBmDczV6fHuteRwiY2qsuxf0xtVEHyt_3gwMHo0Gi9oB5d4ZKOUf3JUXagZ6mtZnRQg&usqp=CAU" group-title="SPORTS",Star Sports 2
 http://103.157.237.18:8000/play/603
 #EXTINF:-1 tvg-logo="https://preview.ibb.co/meAMkv/Screenshot_2017_05_28_03_07_42.png" group-title="SPORTS", Star sports select 1 HD

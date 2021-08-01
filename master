@@ -92,7 +92,7 @@ http://103.157.237.18:8000/play/325
 #EXTINF:-0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/57f72a2f8f321d91184e784f/1565810964083/e6bb8752edfb7c3f72e8c13be7fbeddd.jpg" group-title="HINDI",Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="HINDI",Bfilx Movies
-https://m-c03-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-0 group-title="HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/1200px-Sahara-filmi-tv-logo.svg.png",Filmy Sahara
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
 #EXTINF:-0 group-title="HINDI" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG",Wow Cinema One

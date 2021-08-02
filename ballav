@@ -7,22 +7,18 @@ http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
 http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest" group-title="BANGLA",Colors Bangla Cinema
-http://103.157.237.18:8000/play/214
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
+http://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="HINDI",Star Gold HD
-http://180.210.191.2/hls/stream19.m3u8
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema HD
-http://180.210.191.2/hls/stream25.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony
-http://103.157.237.18:8000/play/333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
-http://103.157.237.18:8000/play/302
+http://84.17.41.7:80/ZeeCinemaHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="HINDI",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
@@ -43,16 +39,8 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet HD Hindi
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD Bangla
-http://tv.pmcon.net/hls/stream9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery HD 
-http://tv.aliflailabd.com:8989/discovery/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
-http://tv.pmcon.net/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="KIDS",Nick Junior Hindi
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/12364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="KIDS",Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Amjx4BZ.png" group-title="KIDS",Disney XD
@@ -69,9 +57,5 @@ https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2 HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10170
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sports Live
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8

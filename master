@@ -75,8 +75,8 @@ http://103.157.237.18:8000/play/316
 http://103.157.237.18:8000/play/347
 #EXTINF:-0 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV HD
 http://103.157.237.18:8000/play/314
-#EXTINF:-0 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony
-http://103.157.237.18:8000/play/333
+#EXTINF:-0 group-title="HINDI" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-0 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus HD
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus

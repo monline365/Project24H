@@ -28,7 +28,7 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD
-http://103.157.237.18:8000/play/330
+http://pn.tvott.info:80/307200113544/307200113544/83687
 #EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
 http://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v3a1/index.m3u8
 #EXTINF:-0 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max HD
@@ -88,11 +88,13 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 #EXTINF:-0 group-title="HINDI" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-0 group-title="HINDI" tvg-logo="https://b4umovies.us/images/logo.jpg",B4U Movies
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6217
+http://pn.tvott.info:80/307200113544/307200113544/83696
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="ENGLISH",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="ENGLISH",Movies Now
+http://pn.tvott.info:80/307200113544/307200113544/83604
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="ENGLISH",Sony Pix HD
 http://103.157.237.18:8000/play/711
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="ENGLISH",Sony Pix

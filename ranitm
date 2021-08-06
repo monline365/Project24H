@@ -130,4 +130,8 @@ https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS",Ten Cricket
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+http://173.199.120.51/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="SPORTS",Sony Ten 2
+http://173.199.120.51/hls/ten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD
+http://173.199.120.51/hls/chss1.m3u8

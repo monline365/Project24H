@@ -220,9 +220,9 @@ https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS",Ten Cricket
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six HD
-http://tv.pmcon.net/hls/stream10.m3u8
+http://84.17.41.7:80/sonysixhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS",Sony Six
-http://103.157.237.18:8000/play/617
+http://84.17.41.7/sonysixhd/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1 HD
 http://103.157.237.18:8000/play/611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS",Sony Ten 1

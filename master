@@ -11,7 +11,7 @@ http://103.81.104.118/hls/stream30.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
-http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8
+http://jupiter.bdcabletv.com:80/JalshaMovies/video.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema

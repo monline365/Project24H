@@ -103,7 +103,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="NEWS",ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png",Zee 24 Ghanta
-https://is.gd/zee24himel
+https://z5ams.akamaized.net/24ghanta/tracks-v1a1/hdntl=exp=1631626115~acl=%2f*~data=hdntl~hmac=7b902f588efb8acd84c9fe6e6e1e7abd07f897c77c44892a92a6b31160699fa9/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/94MWo0U.png" group-title="NEWS",Calcutta News
 https://d2tpyc4tjwz6ij.cloudfront.net/app-18753-1099/ngrp:7zLSdeXa_all/chunklist_w7266604_b948304.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kXfuCMM.png" group-title="NEWS",News 18 Bangla

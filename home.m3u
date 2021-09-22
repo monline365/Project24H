@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+http://jupiter.bdcabletv.com:80/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
 http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
 https://cdn.nowhdtime.com.bd/ZeeBangla/tracks-v1a1/mono.m3u8?token=3b56e398f3fea18f4d04b1cfda234e0d28be920e-4dc23ecc0a0d026a2429c43209c97647-1631992200-1631981400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla
-https://cdn.nowhdtime.com.bd/ZeeBangla/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8

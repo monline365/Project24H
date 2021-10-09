@@ -160,6 +160,8 @@ http://tamilbreak.com/jiotv/live.php?c=Pogo_Hindi&q=1200&e=.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/05tj9z40/Bangla-Talkies-Logo-cover.jpg" group-title="MUSIC",Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Gaan Bangla
+https://dns.megaspeednet.com/GaanBangla/tracks-v1a1/mono.m3u8?token=0f1a94462b2761546404340c73b1e5869ac61486-d95a74d958b87f1f23983d52905cba35-1633762494-1633751694
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music
 https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="MUSIC",B4U Music

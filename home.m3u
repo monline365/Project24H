@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://jupiter.bdcabletv.com:80/star_jalsha-sp/video.m3u8
+https://1ojy.short.gy/nayeem86/visioncablebd/Star-Jalsha-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
 http://173.199.120.51/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
@@ -11,13 +11,13 @@ http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
-http://103.81.104.118/hls/stream27.m3u8
+http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies
-http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5e98/1565808564120/55fb00a28ead0e79178b5e98.jpg" group-title="BANGLA",Sony Aath
-http://jupiter.bdcabletv.com/sony_8-sp/video.m3u8
+https://cdn.cinemabaaz.live/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/s86FPbs.png",Aakash Aath
 https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="BANGLA",Enter 10 Bangla
@@ -26,6 +26,8 @@ https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://4.bp.blogspot.com/-jOz2fwYYOdg/W3kK0V4LUMI/AAAAAAAAdsw/V-l2Ks9fcnIYK3qY16-YNTLVZiSNpeXoACLcBGAs/s1600/khushboo-tv-bangla.png",Khushboo Bangla
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRt5OqjjaD_KHUxdj_uOdLMIz6iO04kFHQehwbi=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Aamar Bangla
+https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures HD

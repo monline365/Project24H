@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
+http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BANGLA",Star Jalsha
 http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla HD
-http://208.86.19.16/615.stream/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BANGLA",Zee Bangla
 http://208.86.19.21:80/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BANGLA",Colors Bangla HD
 http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 #https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BANGLA",Jalsha Movies
 http://208.86.19.21:80/716.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BANGLA",Zee Bangla Cinema

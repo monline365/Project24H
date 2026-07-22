@@ -206,6 +206,5 @@ http://208.86.19.21:80/713.stream/index.m3u8
 http://208.86.19.21:80/724.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="SPORTS",Star Sports 1 HD Bangla
 http://103.81.104.118/hls/stream15.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/269-2696415_watch-your-favorite-shows-from-following-tv-channels.png" group-title="SPORTS",Star Sports 2 HD
-http://103.81.104.118/hls/stream16.m3u8
+
 
